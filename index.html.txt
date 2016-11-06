@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+<title>work-repository1</title>
+</head>
+<body>
+  <div>
+   Information and intellectual property
+</div>
+</body>
+</html>
